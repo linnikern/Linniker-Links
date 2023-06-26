@@ -18,7 +18,7 @@ Proejto executado através do curso da Rocketseat. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src=".github/Readme.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visita online.
+O projeto é um agregador de links para usar como cartão de visita online.
 
 - [Acesse o projeto finalizado, online](https://linnikern.github.io/links-project/)
 
